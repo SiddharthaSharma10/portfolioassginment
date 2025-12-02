@@ -15,7 +15,7 @@ body {
 .hero {
     text-align: center;
     padding: 40px 20px;
-    background: #111;
+    background:  rgb(101, 187, 245);
     color: white;
 }
 
@@ -65,7 +65,7 @@ section h2 {
 
 /* PROJECTS */
 .project-card {
-    background: #eee;
+    background: rgb(131, 217, 255);
     padding: 15px;
     border-radius: 8px;
     margin-bottom: 15px;
@@ -76,7 +76,7 @@ footer {
     text-align: center;
     padding: 20px;
     margin-top: 30px;
-    background: #111;
+    background: rgb(101, 187, 245);
     color: white;
 }
 
